@@ -19,6 +19,7 @@
 13. Сделайте git push origin master.
 
 **Решение 1**
+
 [Ссылка на коммит](https://github.com/garrkiss/homework-github/commit/922d1601ba3f9142ee95f550a85801f271bee575)
 
 
